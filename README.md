@@ -2,10 +2,9 @@
 
 https://loizenai.com/angular-springboot-crud-mysql-example/
 
-![Angular SpringBoot CRUD MySQL Example](https://loizenai.com/wp-content/uploads/2020/12/Angular-11-SpringBoot-CRUD-MySQL-Example.png)
+![Angular SpringBoot CRUD MySQL Example](https://loizenai.com/wp-content/uploads/2020/12/Angular-SpringBoot-CRUD-MySQL-Example.png)
 
 Angular SpringBoot CRUD MySQL Example
-
 
  
 In the tutorial, I introduce how to create an “SpringBoot Angular MySQL CRUD Example” with POST/GET/PUT/DELETE requests to SpringBoot RestAPIs.
